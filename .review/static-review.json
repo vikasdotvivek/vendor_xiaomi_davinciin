@@ -2,8 +2,8 @@
   "generator": "repository-static-triage",
   "version": "1.0",
   "repository": "vikasdotvivek/vendor_xiaomi_davinciin",
-  "revision": "486cd8444ea63fd68b0c6bb29fbbdb0684207a40",
-  "tracked_files": 1995,
+  "revision": "53555189390548ccfdec293eae70b4ae9872f6d2",
+  "tracked_files": 1998,
   "scanned": [],
   "skipped": [
     {
@@ -15,11 +15,23 @@
       "reason": "non-source format; content not audited"
     },
     {
+      "path": ".review/STATIC_REVIEW.md",
+      "reason": "generated/vendor/review path"
+    },
+    {
+      "path": ".review/static-review.json",
+      "reason": "generated/vendor/review path"
+    },
+    {
       "path": "Android.mk",
       "reason": "non-source format; content not audited"
     },
     {
       "path": "BoardConfigVendor.mk",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "CODE_IMPROVEMENTS.md",
       "reason": "non-source format; content not audited"
     },
     {
